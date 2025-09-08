@@ -1,0 +1,44 @@
+#Google_Main_Logo{
+    width: 272px;
+    height: 92px;
+    position: absolute;
+    margin: auto;
+    top: 20%;
+    left: 40%;
+    align-items: center;
+}
+
+#Google_Main_Logo_02{
+    width: 272px;
+    height: 92px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+#Google_Magnifying_Glass{
+    width: 45px;
+    height: 45px;
+}
+
+.fa-solid.fa-magnifying-glass{
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #9aa0a6;
+    font-size: 16px;
+    pointer-events: none;
+}
+
+#Google_Search_Bar{
+    width: 550px;
+    height: 45px;
+    position: absolute;
+    margin: auto;
+    top: 40%;
+    left: 30%;
+    align-items: center;
+    border-radius :50px;
+    border-width: 2px;
+}
